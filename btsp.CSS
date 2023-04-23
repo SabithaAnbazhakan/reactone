@@ -1,0 +1,16 @@
+body{
+}
+.main{
+    height: 400px;
+
+}
+.box{
+    width: 100%;
+    height: 40px;
+    background-color: goldenrod;
+}
+
+.login{
+    text-align:center ;
+}
+    
